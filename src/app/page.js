@@ -1,5 +1,5 @@
 import Header from "./components/Header/Header"
-import Whoam from "./components/Whoami/Whoam"
+import Whoamcont from "./components/Whoamcont/Whoamcont"
 import Footer from "./components/Footer/Footer"
 
 
@@ -7,7 +7,9 @@ export default function Page () {
   return (
     <>
       <Header></Header>
-      <Whoam></Whoam>
+      
+      <Whoamcont></Whoamcont>
+
       <Footer></Footer>
     </>
   )
