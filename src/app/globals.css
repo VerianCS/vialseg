@@ -16,9 +16,6 @@
   }
 }
 
-body {
-  background-image: url("../../public/bg.jpg");
-}
 
 .HeaderChild {
   border-radius: calc(3.5rem - 1px);
@@ -30,3 +27,13 @@ body {
   }
 }
 
+@font-face {
+  font-family: "Poppins";
+  src: url("/vial-security/public/Fonts/Poppins-Regular.ttf");
+  font-style: normal;
+  font-weight: 400;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}

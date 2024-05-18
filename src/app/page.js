@@ -1,16 +1,18 @@
-import Header from "./components/Header/Header"
+import Headerpage from "./components/Headerpage/Headerpage"
 import Whoamcont from "./components/Whoamcont/Whoamcont"
 import Footer from "./components/Footer/Footer"
+
 
 
 export default function Page () {
   return (
     <>
-      <Header></Header>
-      
+      <Headerpage></Headerpage>
       <Whoamcont></Whoamcont>
 
       <Footer></Footer>
+
+  
     </>
   )
 }
