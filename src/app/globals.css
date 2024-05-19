@@ -35,5 +35,10 @@
 }
 
 body {
+  background-image: url("../../public/static/pageBG.jpg");
   font-family: "Poppins", sans-serif;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
