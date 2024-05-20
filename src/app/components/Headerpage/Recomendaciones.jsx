@@ -2,6 +2,6 @@
 
 export default function Recomendaciones () {
     return (
-            <h1 className="Recomendaciones text-white">Recomendaciones</h1>
+            <h1 className="Recomendaciones text-white">RECOMENDACIONES</h1>
     ) 
 }

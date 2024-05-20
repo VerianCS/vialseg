@@ -3,6 +3,7 @@ import Whoamcont from "./components/Whoamcont/Whoamcont"
 import Footer from "./components/Footer/Footer"
 import Separator from "./components/Pagecontent/Separator"
 import Pagecontent from "./components/Pagecontent/Pagecontent"
+import Subfooter from "./components/Footer/Subfooter"
 
 
 
