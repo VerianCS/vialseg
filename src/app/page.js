@@ -11,10 +11,10 @@ export default function Page () {
   return (
     <>
       <Headerpage></Headerpage>
+
       <Whoamcont></Whoamcont>
-      <Separator></Separator>
       <Pagecontent></Pagecontent>
-      <Footer></Footer>
+  
       
     </>
   )
