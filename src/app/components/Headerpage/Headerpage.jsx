@@ -1,6 +1,8 @@
 import Inicio from "./Inicio"
 import Recomendaciones from "./Recomendaciones"
 import Sobre from "./Sobre"
+import Leyes from "./Leyes"
+import Githubicon from "./Githubicon"
 
 
 
@@ -11,9 +13,16 @@ export default function Headerpage () {
               justify-center shadow-md rounded-b-lg">
                 <div className="HeaderStuffContainer flex flex-row ">
                     <div className=" px-4"><Inicio></Inicio></div>
+
+                    <div className=" px-4"><Leyes></Leyes></div>
+
                     <div className=" px-4"><Recomendaciones></Recomendaciones></div>
-                    <div className=" px-4"><Sobre></Sobre></div>                                               
+                    
+                    <div className=" px-4"><Sobre></Sobre></div>    
+
+                    <div className=" mx-4"><Githubicon></Githubicon> </div>
                 </div>
+                
             </div>
     )
 }

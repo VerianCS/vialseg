@@ -15,7 +15,7 @@ export default function Page () {
       <Whoamcont></Whoamcont>
       <Pagecontent></Pagecontent>
   
-      
+      <Footer></Footer>
     </>
   )
 }
