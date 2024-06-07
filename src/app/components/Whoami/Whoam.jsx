@@ -1,6 +1,6 @@
 
 
-export default function() {
+export default function Whoam() {
 
     return (
         <>
@@ -15,12 +15,9 @@ export default function() {
         <p className="SubText text-white text-2xl mt-5 font-bold justify-center text-center">
                 Vía a la vida
          </p>
-        </div> 
-
+         </div> 
         </div>
-
         </>
-
     )
 
 }

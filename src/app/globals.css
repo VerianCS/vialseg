@@ -27,16 +27,10 @@
   }
 }
 
-@font-face {
-  font-family: "Poppins";
-  src: url("/vial-security/public/Fonts/Poppins-Regular.ttf");
-  font-style: normal;
-  font-weight: 400;
-}
+
 
 body {
   background-image: url("../../public/static/pageBG.jpg");
-  font-family: "Poppins", sans-serif;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
